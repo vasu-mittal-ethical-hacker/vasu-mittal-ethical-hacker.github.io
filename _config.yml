@@ -8,9 +8,7 @@ description: "Stuff about hacking and other security related stuff I found cool 
 #twitter_username: "twitteruser"
 github_username: "vasu-mittal-ethical-hacker"
 linkedin_username: "vasu-mittal-ethical-hacker"
-tryhackme:
-      - username: thehybrid2914
-      - instance: tryhackme.com
+tryhackme: thehybrid2914
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
